@@ -1,0 +1,16 @@
+.git
+.gitignore
+.idea
+.env
+deploy-to-v5.sh
+deploy-to-30.sh
+deploy-to-31.sh
+deploy-to-34.sh
+deploy-to-35.sh
+deploy-to-duanshu.sh
+exclude.list
+storage
+config
+resources/js
+vendor
+bootstrap
